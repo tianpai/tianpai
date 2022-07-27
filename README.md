@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**tianpai/tianpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working on UTSC course finder
 
-Here are some ideas to get you started:
+VSCode with VIM key bindings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Recommanded tools
+
+1. Pandoc
+2. LSD
+3. Autojump
+4. neofetch
+5. lazygit
+6. neovim
+7. tmux
+8. Alacritty
+9. bat
+10. [Newman](https://github.com/postmanlabs/newman)
