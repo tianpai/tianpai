@@ -2,8 +2,6 @@
 
 I’m currently working on UTSC course finder
 
-VSCode with VIM key bindings
-
 # Recommanded tools
 
 1. Pandoc
