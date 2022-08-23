@@ -2,6 +2,6 @@
 
 I am currentlly studying in software engineering steam specialist program.
 
-I’m working on UTSC course finder
+I’m working on UOFT course finder
 
 - Neovim user
